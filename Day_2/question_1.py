@@ -1,4 +1,4 @@
-input_file = open("c:/Users/hp/Desktop/Advent of code/Day_2/input.txt")
+input_file = open("/home/gagandeep/Desktop/Advent_of_code/Day_2/input.txt")
 input_data = input_file.read()
 input_file.close()
 

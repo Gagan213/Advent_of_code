@@ -1,5 +1,5 @@
 import math
-input_file = open("input.txt")
+input_file = open("/home/gagandeep/Desktop/Advent_of_code/Day_1/input.txt")
 mass_list = input_file.readlines()
 input_file.close()
 
